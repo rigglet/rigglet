@@ -4,7 +4,7 @@ Hi there, I'm Neil from Sydney, Australia.
 I am passionate about web development and most recently have been focusing on full MERN stack and react. You can view my portfolio and featured repos below.
 
 ## **My Portfolio**
-[![alt portfolio](/images/portfolio-home.png)](https://www.neilrigg.com/)
+[![alt portfolio](<img src="/images/budget-app.png" width="250px">)](https://www.neilrigg.com/)
   
 
 ## **Featured Projects**
