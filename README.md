@@ -1,3 +1,5 @@
+<script src="https://use.fontawesome.com/6069c18ce0.js"></script>
+
 # **Introduction**
 Hi there, I'm Neil from Sydney, Australia.
 
@@ -5,11 +7,14 @@ I am passionate about web development and most recently have been focusing on fu
 
 ## **My Portfolio**
 
-<div width="250px">
+<span style="color:red">
+
+<i class="fa-brands fa-react"></i>
+</span>.
 
 [![Portfolio](/images/portfolio-home.png)](https://www.neilrigg.com/)
 
-</div>
+
 
 ## **Featured Projects**
 [![alt portfolio](/images/portfolio-admin.png)](https://www.neilrigg.com/)
