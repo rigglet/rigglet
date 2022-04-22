@@ -10,6 +10,8 @@ I am passionate about web development and most recently have been focusing on fu
 ## **Featured Projects**
 [![alt portfolio](/images/portfolio-admin.png)](https://www.neilrigg.com/)
 
+<img src="/images/portfolio-admin.png" width="100px">
+
 ## **Currently Working on**
 [![alt portfolio](/images/budget-app.png)](https://www.neilrigg.com/)
 
