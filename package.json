@@ -1,0 +1,14 @@
+{
+  "name": "github-about",
+  "version": "1.0.0",
+  "description": "Github about repo",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Neil Rigg",
+  "license": "ISC"
+}
