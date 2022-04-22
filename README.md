@@ -9,6 +9,7 @@ I am passionate about full-stack MERN web development and most recently have bee
 
 ## **Currently Working on**
 [![alt portfolio](/images/home.png)](https://www.neilrigg.com/)
+[Neil Rigg Portfolio <img src='/images/home.png' alt='portfolio' height='250'>](https://www.neilrigg.com/)  
 
 
 ## **My Portfolio**
