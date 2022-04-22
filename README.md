@@ -13,6 +13,7 @@ I am passionate about web development and most recently have been focusing on fu
 <img src="/images/portfolio-home.png " width="250px">
 <img src="/images/portfolio-admin.png" width="250px">
 <img src="/images/budget-app.png" width="250px">
+![alt portfolio](budget-app.png){ width=60%,height:30px }
 
 ## **Currently Working on**
 [![alt portfolio](/images/budget-app.png)](https://www.neilrigg.com/)
