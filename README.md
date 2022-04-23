@@ -1,8 +1,7 @@
 # **Introduction**
 
-<p style="text-align:center;font-size:20pt;color:white-smoke;">
-Hi there, I'm Neil from Sydney, Australia.
-</p>
+**Hi there, I'm Neil from Sydney, Australia.**
+
 <p style="text-align:center;font-size:15pt;">
 I am passionate about web development and most recently have been focusing on full MERN stack and react.
 </p>
@@ -10,39 +9,59 @@ I am passionate about web development and most recently have been focusing on fu
 You can view my portfolio and featured repos below.
 </p>
 
+<br/>
+<br/>
+
 ## **Stack** 
 I am agnostic about which technologies and languages I use. In the past I have experienced many different ones and I'm always keen to try something new, but my focus is currently on **HTML**, **CSS**, **JavaScript**, and the MERN stack **MongoDB**, **Express.js**, **React.js**, and **Node**.
 
-### Technologies
-<p style="text-align:center;background:#313131;padding:1rem;display:flex;align-items:center;justify-content:center;width:60%;margin:auto;flex-wrap:wrap;border-radius:5px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="Express" alt="Express Logo" width="57" /> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React Logo" width="57" /> &emsp;
+<br/>
+
+### **Technologies**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript Logo" width="57" /> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" title="MongoDB" alt="MongoDB Logo" width="64"/> &ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" title="Express" alt="Express Logo" width="64"/> &ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" title="React" alt="React Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" title="Node JS" alt="Node JS Logo" width="96"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" title="Bootstrap" alt="Bootstrap Logo" width="68" /> &emsp;
 </p>
 
-
+<br/>
+<br/>
 
 ### **Tools**
-NPM / Git / Github / Postman / Figma / VsCode
-
-<p style="text-align:center;background:#313131;padding:1rem;display:flex;align-items:center;justify-content:center;width:60%;margin:auto;flex-wrap:wrap;border-radius:5px;">
+<p>
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="NPM" alt="NPM Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="50"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="Github" alt="Github Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="38"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman Logo" width="38"/> &emsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode Logo" width="38"/> &emsp;
-  </p>
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="64"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman Logo" width="64"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode Logo" width="64"/> &emsp;
+</p>
+NPM Git Github Postman Figma VsCode
 
-### Deployment 
-AWS / Netlify / Heroku
+<br/>
+<br/>
+
+### **Deployment** 
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="aws" alt="NPM Logo" width="64"/> &ensp;
+  <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="netlify" alt="Netlify Logo" width="64"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" title="Heroku" alt="Heroku Logo" width="64"/> &ensp;
+</p>
+AWS Netlify Heroku
+
+<br/>
+<br/>
 
 ### **Links**
 Linked In
 Github
+
+<br/>
+<br/>
 
 ## **My Portfolio**
 [![Portfolio](/images/portfolio-home.png)](https://www.neilrigg.com/)
@@ -54,8 +73,6 @@ Github
 
 ## **Currently Working on**
 [![alt portfolio](/images/budget-app.png)](https://www.neilrigg.com/)
-
-
 
 
 <!-- ## **Stats**
