@@ -1,13 +1,10 @@
 # **Introduction**
 
-**Hi there, I'm Neil from Sydney, Australia.**
+Hi there, I'm **Neil** from Sydney, Australia.
 
-<p style="text-align:center;font-size:15pt;">
 I am passionate about web development and most recently have been focusing on full MERN stack and react.
-</p>
-<p style="text-align:center;font-size:15pt;">
+
 You can view my portfolio and featured repos below.
-</p>
 
 <br/>
 <br/>
@@ -58,12 +55,18 @@ AWS Netlify Heroku
 <br/>
 <br/>
 
-### **Links**
+## **My Portfolio website**
+[![Portfolio](/images/portfolio-home-sm.png)](https://www.neilrigg.com/)
 
-<img src="images/portfolio-home-sm.png" title="Portfolio" alt="Portfolio website" width="100"/> &ensp;
-[My portfolio website](https://www.neilrigg.com "My portfolio website")
+<br/>
+
+## **Links**
+
+<!-- <img src="images/portfolio-home-sm.png" title="Portfolio" alt="Portfolio website" width="100"/> &ensp;
+[My portfolio website](https://www.neilrigg.com "My portfolio website") -->
 
 <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="LinkedIn Logo" width="64"/> &emsp;
+
 [LinkedIn](https://www.linkedin.com/in/neil-rigg-794243159/ "Linked In")
 
 <!-- [![alt linked](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg)](https://www.linkedin.com/in/neil-rigg-794243159/) -->
@@ -71,37 +74,34 @@ AWS Netlify Heroku
 <br/>
 <br/>
 
-## **My Portfolio**
-[![Portfolio](/images/portfolio-home-sm.png)](https://www.neilrigg.com/)
-
-<br/>
-
 ## **Featured Projects**
-I am constantly working on projects with the goal of gaining a deeper knowledge of the technologies of the MERN stack and the underlying prinicples of the web. You can jump to some of them on Github here... 
+I am constantly working on projects with the goal of gaining a deeper knowledge of the technologies of the MERN stack and the underlying prinicples of the web. 
 
-[![alt portfolio](images/portfolio-home-sm.png)](https://www.neilrigg.com)
-### My LIVE portfolio website  ###
+You can jump to some of them on Github here...
+More information about these can be found on my portfolio website [neilrigg.com](https://www.neilrigg.com/ "neilrigg.com")
+
+<!-- [![alt portfolio](images/portfolio-home-sm.png)](https://www.neilrigg.com)
+### My LIVE portfolio website  ### -->
 
 <br/>
 
 [![alt portfolio](images/portfolio-home-sm.png)](https://github.com/rigglet/react-budget-app)
-### My portfolio website on Guthub ###
+### My portfolio website on Github ###
 <br/>
 
 [![alt portfolio](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-admin)
 ### Administration frontend for my portfolio site ###
-[![alt portfolio API]](https://github.com/rigglet/portfolio-server)
+
+[![alt portfolio API](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-server)
 ### Backend API for portfolio site (consumed by portfolio site and administration) ###
 <br/>
 
-[![alt portfolio admin](images/portfolio-admin-sm.png)](https://github.com/rigglet/react-budget-app)
-<br/>
-
-[![alt react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+[![alt react budget app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+### React budget app (in progress) ###
 
 <br/>
 <br/>
 
 ## **Currently Working on**
-[![react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+[![alt react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
 
