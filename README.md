@@ -75,7 +75,7 @@ AWS Netlify Heroku
 <br/>
 
 ## **Featured Projects**
-I am constantly working on projects with the goal of gaining a deeper knowledge of the technologies of the MERN stack and the underlying prinicples of the web. 
+I am consistantly working on projects with the goal of gaining a deeper knowledge of the technologies of the MERN stack and the underlying prinicples of the web. 
 
 You can jump to some of them on Github here...
 More information about these can be found on my portfolio website [neilrigg.com](https://www.neilrigg.com/ "neilrigg.com")
@@ -85,20 +85,23 @@ More information about these can be found on my portfolio website [neilrigg.com]
 
 <br/>
 
-[![alt portfolio](images/portfolio-home-sm.png)](https://github.com/rigglet/react-budget-app)
 ### My portfolio website on Github ###
+[![alt portfolio](images/portfolio-home-sm.png)](https://github.com/rigglet/react-budget-app)
+<br/>
 <br/>
 
-[![alt portfolio](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-admin)
 ### Administration frontend for my portfolio site ###
-
-[![alt portfolio API](images/rest.jpg)](https://github.com/rigglet/portfolio-server)
-### Backend API for portfolio site (consumed by portfolio site and administration) ###
+[![alt portfolio](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-admin)
+<br/>
 <br/>
 
-[![alt react budget app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
-### React budget app (in progress) ###
+### Backend API for portfolio site (consumed by portfolio site and administration) ###
+[![alt portfolio API](images/rest.jpg)](https://github.com/rigglet/portfolio-server)
+<br/>
+<br/>
 
+### React budget app (in progress) ###
+[![alt react budget app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
 <br/>
 <br/>
 
