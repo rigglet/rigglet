@@ -92,7 +92,7 @@ More information about these can be found on my portfolio website [neilrigg.com]
 [![alt portfolio](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-admin)
 ### Administration frontend for my portfolio site ###
 
-[![alt portfolio API](images/portfolio-admin-sm.png)](https://github.com/rigglet/portfolio-server)
+[![alt portfolio API](images/rest.jpg)](https://github.com/rigglet/portfolio-server)
 ### Backend API for portfolio site (consumed by portfolio site and administration) ###
 <br/>
 
