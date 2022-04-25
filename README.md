@@ -18,6 +18,7 @@ I am agnostic about which technologies and languages I use. In the past I have e
 <br/>
 
 ### **Technologies**
+HTML CSS JavaScript MongoDB Express React NodeJS
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="HTML" alt="HTML Logo" width="57" /> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS Logo" width="57" /> &emsp;
@@ -31,58 +32,92 @@ I am agnostic about which technologies and languages I use. In the past I have e
 <br/>
 <br/>
 
+
 ### **Tools**
+NPM Git Github Postman Figma VsCode
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="NPM" alt="NPM Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="Github" alt="Github Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="64"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="38"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode Logo" width="64"/> &emsp;
 </p>
-NPM Git Github Postman Figma VsCode
 
 <br/>
 <br/>
 
 ### **Deployment** 
+AWS Netlify Heroku
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" title="aws" alt="NPM Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" title="netlify" alt="Netlify Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/heroku-4.svg" title="Heroku" alt="Heroku Logo" width="64"/> &ensp;
 </p>
-AWS Netlify Heroku
 
 <br/>
 <br/>
 
 ### **Links**
-Linked In
-Github
+
+<img src="images/portfolio-home-sm.png" title="Portfolio" alt="Portfolio website" width="100"/> &ensp;
+
+[My portfolio website](https://www.neilrigg.com "My portfolio website")
+
+<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="LinkedIn" alt="LinkedIn Logo" width="64"/> &emsp;
+
+[LinkedIn](https://www.neilrigg.com "Linked In")
+
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="Github" alt="Github Logo" width="64"/> &ensp;
+
+[LinkedIn](https://www.neilrigg.com "Linked In")
+
+<img src="https://cdn.worldvectorlogo.com/logos/website.svg" title="Portfolio" alt="Portfolio Logo" width="64"/> &ensp;
+
+[Github](https://www.neilrigg.com "Linked In")
+
+
+![https://cdn.worldvectorlogo.com/logos/website.svg](email)
+
 
 <br/>
 <br/>
 
 ## **My Portfolio**
-[![Portfolio](/images/portfolio-home.png)](https://www.neilrigg.com/)
+[![Portfolio](/images/portfolio-home-sm.png)](https://www.neilrigg.com/)
 
+<br/>
 
 ## **Featured Projects**
-[![alt portfolio](/images/portfolio-admin.png)](https://www.neilrigg.com/)
 
+[![alt portfolio](images/portfolio-home-sm.png)](https://github.com/rigglet/react-budget-app)
+<br/>
+
+[![alt portfolio](images/portfolio-admin-sm.png)](https://github.com/rigglet/react-budget-app)
+<br/>
+
+[![alt portfolio admin](images/portfolio-admin-sm.png)](https://github.com/rigglet/react-budget-app)
+<br/>
+
+[![alt react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+
+<br/>
+<br/>
 
 ## **Currently Working on**
-[![alt portfolio](/images/budget-app.png)](https://www.neilrigg.com/)
+[![react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+
+
 
 
 <!-- ## **Stats**
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rigglet)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
 
 ![](images/banner.png)
 
-[![Visits Badge](https://badges.pufler.dev/visits/hassibmoddasser/hassibmoddasser?color=2D9CDB&style=for-the-badge)](https://github.com/hassibmoddasser)
 [![Twitter Follow Badge](https://img.shields.io/twitter/follow/hassibmoddasser?color=2D9CDB&logo=twitter&style=for-the-badge)](https://twitter.com/hassibmoddasser)
 
 # Hi there <img src="images/wave.gif" width="30px">, I'm Hassib
