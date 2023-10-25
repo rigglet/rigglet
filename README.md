@@ -106,5 +106,7 @@ More information about these can be found on my portfolio website [neilrigg.com]
 <br/>
 
 ## **Currently Working on**
-[![alt react app](images/flashcard-app-sm.png)](https://github.com/rigglet/react-flashcard-app)
+[![alt react app](images/flashcard-login-sm.png)](https://github.com/rigglet/react-flashcard-app)
+[![alt react app](images/flashcard-decks-sm.png)](https://github.com/rigglet/react-flashcard-app)
+[![alt react app](images/flashcard-admin-sm.png)](https://github.com/rigglet/react-flashcard-app)
 
