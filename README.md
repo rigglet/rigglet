@@ -36,7 +36,7 @@ NPM Git Github Postman Figma VsCode
   <img src="https://cdn.worldvectorlogo.com/logos/npm.svg" title="NPM" alt="NPM Logo" width="64"/> &ensp;
   <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" title="Git" alt="Git Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="Github" alt="Github Logo" width="64"/> &ensp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" title="Figma" alt="Figma Logo" width="38"/> &emsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" title="Figma" alt="Figma Logo" width="38"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" title="Postman" alt="Postman Logo" width="64"/> &emsp;
   <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" title="VSCode" alt="VSCode Logo" width="64"/> &emsp;
 </p>
@@ -100,11 +100,11 @@ More information about these can be found on my portfolio website [neilrigg.com]
 <br/>
 <br/>
 
-### React budget app (in progress) ###
+### React budget app ###
 [![alt react budget app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
 <br/>
 <br/>
 
 ## **Currently Working on**
-[![alt react app](images/budget-app-sm.png)](https://github.com/rigglet/react-budget-app)
+[![alt react app](images/flashcard-app-sm.png)](https://github.com/rigglet/react-flashcard-app)
 
